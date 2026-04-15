@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "OldCh2RippedTwo",
-"productVersion": "1.0",
+"productVersion": "1.1",
 "dataUrl": "BATIM.data.unityweb",
 "wasmCodeUrl": "BATIM.wasm.code.unityweb",
 "wasmFrameworkUrl": "BATIM.wasm.framework.unityweb",
